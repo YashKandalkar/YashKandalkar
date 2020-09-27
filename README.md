@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/yashk60180974" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yashk60180974" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash kandalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash kandalkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-kandalkar-b5890b1aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash kandalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/yash__kandalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yash__kandalkar" height="30" width="40" /></a>
 <a href="https://medium.com/@yashsk.yk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yashsk.yk" height="30" width="40" /></a>
 </p>
