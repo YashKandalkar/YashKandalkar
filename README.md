@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kandalkar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>  
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&style=flat-square" alt="yashkandalkar" /> </p>
 
 - 📫 How to reach me **yashsk.yk@gmail.com**
 
