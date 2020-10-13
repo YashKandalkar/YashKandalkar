@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkandalkar&layout=compact" alt="yashkandalkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkandalkar&show_icons=true" alt="yashkandalkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkandalkar&show_icons=true" alt="yashkandalkar" /></p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
