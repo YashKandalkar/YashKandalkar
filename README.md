@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0989aa&style=flat-square" alt="yashkandalkar" /> </p>
 
-- 🔭 I’m currently working on **a react-native app**
+- 🔭 I’m currently learning TypeScript, React Native!
 
 - 🌱 I’m currently learning **React Native, Competitive Programming**
 
