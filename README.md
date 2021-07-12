@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kandalkar</h1>
 <h3 align="center">A student, programmer, open source enthusiast.</h3>
 
-<p align="center" justify="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="yashkandalkar" /> <a href="https://twitter.com/yash__kandalkar" target="blank"><img src="https://img.shields.io/twitter/follow/yash__kandalkar?logo=twitter&style=for-the-badge" alt="yash__kandalkar" /></a> </p>
+<p align="left" justify="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="yashkandalkar" /></p>
 
 <p align="left">  </p>
 
