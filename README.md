@@ -5,9 +5,9 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **many open-source projects!**
+- 🔭 I’m constantly working on **myself!**
 
-- 🌱 I’m currently learning **Testing react components**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://yashkandalkar.github.io/](https://yashkandalkar.github.io/)
 
