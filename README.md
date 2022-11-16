@@ -7,7 +7,7 @@
 
 - 🔭 I’m constantly working on **myself!**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently looking for jobs and opportunities!
 
 - 👨‍💻 Visit my portfolio website at [https://yashkandalkar.github.io/](https://yashkandalkar.github.io/)
 
